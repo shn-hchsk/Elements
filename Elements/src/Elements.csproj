@@ -8,8 +8,8 @@
     <PackageId>Hypar.Elements</PackageId>
     <PackageDescription>A building elements library for AEC.</PackageDescription>
     <Summary>The Elements library provides object types for generating the built environment.</Summary>
-    <PackageProjectUrl>https://github.com/hypar-io/elements</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/hypar-io/elements</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/shn-hchsk/elements</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/shn-hchsk/elements</RepositoryUrl>
     <Version>$(Version)</Version>
     <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
   </PropertyGroup>
